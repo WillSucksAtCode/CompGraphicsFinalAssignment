@@ -19,8 +19,6 @@ First and foremost, Will and I couldn't get LUT to work in the game because we a
 ![Screenshot 2023-04-04 015210](https://user-images.githubusercontent.com/72412425/229916901-ddf8eee8-3268-4751-913e-a09a6c3ff71f.png) 
 ![Screenshot 2023-04-04 041525](https://user-images.githubusercontent.com/72412425/229916955-15e11315-8129-476d-94a3-a26d243ad595.png)
 
-*William* - For Additional Effects, I decided to implement windows and water to our scene. Windows are used for our facility. 
-
 Moving on to the Additional Post Process effects that were added, I added bloom while Farhan added motion blur. I implemented bloom as a way to add a sense of moonlight reflecting off the trees. Bloom is achieved by blurring the view of the camera, brightening that and then adding it to the original view, and that can be achieved with the blend mode One. In Unity’s rendering pipeline it is simply done using the post processing effect of the same name, with the addition of a subtle blue tint.
 
 ![1](https://user-images.githubusercontent.com/72412425/229922214-c4d463e5-b270-484a-b76a-b63d47410faa.png)
