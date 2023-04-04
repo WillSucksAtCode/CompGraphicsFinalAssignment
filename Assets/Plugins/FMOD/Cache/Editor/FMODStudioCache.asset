@@ -340,7 +340,7 @@ MonoBehaviour:
   - {fileID: 8251902397409412290}
   StringsBanks:
   - {fileID: 3091575108201934265}
-  cacheTime: 638161555605164213
+  cacheTime: 638162006601821760
   cacheVersion: 131601
 --- !u!114 &474667374170908843
 MonoBehaviour:
@@ -547,7 +547,7 @@ MonoBehaviour:
   Path: ViralDestruction/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638161555605164213
+  lastModified: 638162006601821760
   FileSizes:
   - Name: Desktop
     Value: 1788
@@ -648,7 +648,7 @@ MonoBehaviour:
   Path: ViralDestruction/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638161555605138621
+  lastModified: 638162006601821760
   FileSizes:
   - Name: Desktop
     Value: 3602144
