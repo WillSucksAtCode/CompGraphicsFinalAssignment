@@ -123,6 +123,51 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 23800000, guid: 09d0190d36dee9f47891aa1f0092ae51, type: 2}
+--- !u!1 &12125613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 12125615}
+  - component: {fileID: 12125614}
+  m_Layer: 0
+  m_Name: ElementToggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &12125614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 12125613}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be5a6fa469a104b4dbdc1a47d9763732, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  postProcessing: {fileID: 1764895861}
+--- !u!4 &12125615
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 12125613}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -14.435856, y: 2.2910774, z: 11.820835}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &73700312 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8532863088544767265, guid: a2c716609852e144481adeaa1eac0997, type: 3}
@@ -4577,6 +4622,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: '- Post Processing -'
       objectReference: {fileID: 0}
+    - target: {fileID: 5944625214101609935, guid: d69bf233aa0d8be4a8ef9843cc5e1a97, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d69bf233aa0d8be4a8ef9843cc5e1a97, type: 3}
 --- !u!4 &907052432 stripped
@@ -8643,6 +8692,11 @@ GameObject:
 Transform:
   m_CorrespondingSourceObject: {fileID: 8300232261129744736, guid: 3bfc8f4284634ad4aafc2e6925be745e, type: 3}
   m_PrefabInstance: {fileID: 436714472}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1764895861 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5944625214101609935, guid: d69bf233aa0d8be4a8ef9843cc5e1a97, type: 3}
+  m_PrefabInstance: {fileID: 903537695}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1771469814 stripped
 GameObject:
