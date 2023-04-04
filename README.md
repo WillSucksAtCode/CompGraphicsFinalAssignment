@@ -18,3 +18,18 @@ First and foremost, Will and I couldn't get LUT to work in the game because we a
 
 ![Screenshot 2023-04-04 015210](https://user-images.githubusercontent.com/72412425/229916901-ddf8eee8-3268-4751-913e-a09a6c3ff71f.png) 
 ![Screenshot 2023-04-04 041525](https://user-images.githubusercontent.com/72412425/229916955-15e11315-8129-476d-94a3-a26d243ad595.png)
+
+*William* - For Additional Effects, I decided to implement windows and water to our scene. Windows are used for our facility. 
+
+Moving on to the Additional Post Process effects that were added, I added bloom while Farhan added motion blur. I implemented bloom as a way to add a sense of moonlight reflecting off the trees. Bloom is achieved by blurring the view of the camera, brightening that and then adding it to the original view, and that can be achieved with the blend mode One. In Unity’s rendering pipeline it is simply done using the post processing effect of the same name, with the addition of a subtle blue tint.
+
+![1](https://user-images.githubusercontent.com/72412425/229922214-c4d463e5-b270-484a-b76a-b63d47410faa.png)
+
+I also added in Fog to our scene to once again add more mysterious and ominous feel to the game. I did this by going to Window -> Rendering -> Lighting. In the lighting tab there is a "Other settings" which allows us to add fog and play with the fog's settings such as it's color and density. 
+
+![Screenshot 2023-04-04 023946](https://user-images.githubusercontent.com/72412425/229922986-21539f64-fbe1-4374-9a01-5dcd1565dca8.png)
+
+*Farhan* - I implemented motion blur which was done by the post processing motion blur effect in unity's render pipeline. Motion blur is the process of blurring the player's view in the direction of movement. It basically gets the frames over a set amount of time and blends them together to get a blur effect.
+
+![Screenshot 2023-04-04 011329](https://user-images.githubusercontent.com/72412425/229923034-f2cc7891-4570-4136-b14b-6fe2ca746af6.png)
+
