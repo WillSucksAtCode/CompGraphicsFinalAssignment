@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5ee97ff7-1f0c-4434-8125-65b53b189c6f}">
+		<property name="assetPath">
+			<value>Footsteps/Tile/RealTileFootsteps1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.24439909297052154</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{051f4232-baab-4b92-9cfd-ca0256bb6478}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 922a16ca1a148ef45baa39c4f896ee5a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Viral_Destruction_Compass_Design_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1477
+        width: 851
+        height: 1046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd296561ea42f0340bc8ae4d8cf66231
+      internalID: -2125281513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viral_Destruction_Compass_Design_16
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1064
+        width: 1053
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a88d22193389442a0992606bd0c435
+      internalID: 1140425542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viral_Destruction_Compass_Design_71
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 290
+        width: 868
+        height: 1136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69dd67eb8a4b054c81fa267dff3a04d
+      internalID: 836697740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viral_Destruction_Compass_Design_79
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 257
+        width: 767
+        height: 1162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7fb524c58a7c04f994c4f927176117
+      internalID: -909815842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a81613617dcbbeb4f9f128efd14c1379
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Viral_Destruction_Compass_Design_17: 1908601638
+      Viral_Destruction_Compass_Design_135: -897809184
+      Viral_Destruction_Compass_Design_68: 1147932263
+      Viral_Destruction_Compass_Design_50: 628669369
+      Viral_Destruction_Compass_Design_52: -747910843
+      Viral_Destruction_Compass_Design_85: -253371863
+      Viral_Destruction_Compass_Design_126: 2123974773
+      Viral_Destruction_Compass_Design_20: -1562835518
+      Viral_Destruction_Compass_Design_36: 209591274
+      Viral_Destruction_Compass_Design_112: -1361818045
+      Viral_Destruction_Compass_Design_45: -1902663443
+      Viral_Destruction_Compass_Design_121: -233293597
+      Viral_Destruction_Compass_Design_15: 1533334353
+      Viral_Destruction_Compass_Design_0: -843270050
+      Viral_Destruction_Compass_Design_38: -898183599
+      Viral_Destruction_Compass_Design_129: 1064177134
+      Viral_Destruction_Compass_Design_39: 542518589
+      Viral_Destruction_Compass_Design_106: 2038909414
+      Viral_Destruction_Compass_Design_35: 87178023
+      Viral_Destruction_Compass_Design_69: -462498467
+      Viral_Destruction_Compass_Design_81: -322188648
+      Viral_Destruction_Compass_Design_66: 1533678297
+      Viral_Destruction_Compass_Design_19: -728101633
+      Viral_Destruction_Compass_Design_65: 1881213004
+      Viral_Destruction_Compass_Design_34: 579905804
+      Viral_Destruction_Compass_Design_21: 1982020680
+      Viral_Destruction_Compass_Design_86: 812621804
+      Viral_Destruction_Compass_Design_79: -909815842
+      Viral_Destruction_Compass_Design_134: -2093591632
+      Viral_Destruction_Compass_Design_23: -1892358170
+      Viral_Destruction_Compass_Design_113: -1747614060
+      Viral_Destruction_Compass_Design_10: -255541423
+      Viral_Destruction_Compass_Design_73: 758208232
+      Viral_Destruction_Compass_Design_119: 369527883
+      Viral_Destruction_Compass_Design_95: -127386678
+      Viral_Destruction_Compass_Design_98: 2088760707
+      Viral_Destruction_Compass_Design_114: -976530337
+      Viral_Destruction_Compass_Design_110: -1270104498
+      Viral_Destruction_Compass_Design_117: -1624593090
+      Viral_Destruction_Compass_Design_55: 611233851
+      Viral_Destruction_Compass_Design_83: -320290934
+      Viral_Destruction_Compass_Design_40: 662512382
+      Viral_Destruction_Compass_Design_42: -865390085
+      Viral_Destruction_Compass_Design_89: 1321580833
+      Viral_Destruction_Compass_Design_107: 1883257822
+      Viral_Destruction_Compass_Design_9: 1150112682
+      Viral_Destruction_Compass_Design_30: 539977022
+      Viral_Destruction_Compass_Design_75: 2039329603
+      Viral_Destruction_Compass_Design_116: 54203917
+      Viral_Destruction_Compass_Design_131: -434553529
+      Viral_Destruction_Compass_Design_56: -1406198235
+      Viral_Destruction_Compass_Design_101: -2085465340
+      Viral_Destruction_Compass_Design_94: 1215800088
+      Viral_Destruction_Compass_Design_12: 1796451185
+      Viral_Destruction_Compass_Design_26: -662231060
+      Viral_Destruction_Compass_Design_109: 1352769122
+      Viral_Destruction_Compass_Design_100: -766104018
+      Viral_Destruction_Compass_Design_29: -341110183
+      Viral_Destruction_Compass_Design_63: 1898796503
+      Viral_Destruction_Compass_Design_5: 1737566851
+      Viral_Destruction_Compass_Design_24: -769788818
+      Viral_Destruction_Compass_Design_102: 209090196
+      Viral_Destruction_Compass_Design_124: 565489220
+      Viral_Destruction_Compass_Design_125: -2143478618
+      Viral_Destruction_Compass_Design_77: -1857139480
+      Viral_Destruction_Compass_Design_84: -175419586
+      Viral_Destruction_Compass_Design_74: 1135871837
+      Viral_Destruction_Compass_Design_96: 1478892469
+      Viral_Destruction_Compass_Design_4: -1925424581
+      Viral_Destruction_Compass_Design_120: 42967975
+      Viral_Destruction_Compass_Design_60: -1844445995
+      Viral_Destruction_Compass_Design_80: -1869495910
+      Viral_Destruction_Compass_Design_82: -1965348027
+      Viral_Destruction_Compass_Design_123: -1471465363
+      Viral_Destruction_Compass_Design_14: -942698241
+      Viral_Destruction_Compass_Design_57: 1727529914
+      Viral_Destruction_Compass_Design_49: 349862847
+      Viral_Destruction_Compass_Design_43: 783639077
+      Viral_Destruction_Compass_Design_2: -833796272
+      Viral_Destruction_Compass_Design_48: -1292676584
+      Viral_Destruction_Compass_Design_108: -259920650
+      Viral_Destruction_Compass_Design_62: -362556304
+      Viral_Destruction_Compass_Design_53: 20319936
+      Viral_Destruction_Compass_Design_72: 507668401
+      Viral_Destruction_Compass_Design_64: 1635848707
+      Viral_Destruction_Compass_Design_67: -622808034
+      Viral_Destruction_Compass_Design_31: -1003521671
+      Viral_Destruction_Compass_Design_6: -2125281513
+      Viral_Destruction_Compass_Design_91: -977649927
+      Viral_Destruction_Compass_Design_130: 2013836263
+      Viral_Destruction_Compass_Design_92: -1764328928
+      Viral_Destruction_Compass_Design_115: 1249595841
+      Viral_Destruction_Compass_Design_54: 52812458
+      Viral_Destruction_Compass_Design_105: -1008369500
+      Viral_Destruction_Compass_Design_16: 1140425542
+      Viral_Destruction_Compass_Design_136: 146477024
+      Viral_Destruction_Compass_Design_44: 95204511
+      Viral_Destruction_Compass_Design_41: 1482188439
+      Viral_Destruction_Compass_Design_58: 2125246862
+      Viral_Destruction_Compass_Design_51: 1232070665
+      Viral_Destruction_Compass_Design_27: 1389990081
+      Viral_Destruction_Compass_Design_11: 1573214861
+      Viral_Destruction_Compass_Design_33: -616371423
+      Viral_Destruction_Compass_Design_97: 1872353805
+      Viral_Destruction_Compass_Design_18: 1076584140
+      Viral_Destruction_Compass_Design_132: 346681667
+      Viral_Destruction_Compass_Design_13: -530457070
+      Viral_Destruction_Compass_Design_22: 1223809944
+      Viral_Destruction_Compass_Design_61: -2071590629
+      Viral_Destruction_Compass_Design_87: -1853077447
+      Viral_Destruction_Compass_Design_127: 212224224
+      Viral_Destruction_Compass_Design_88: 1103043781
+      Viral_Destruction_Compass_Design_46: -354142717
+      Viral_Destruction_Compass_Design_70: 288876963
+      Viral_Destruction_Compass_Design_118: 538468135
+      Viral_Destruction_Compass_Design_76: 466148257
+      Viral_Destruction_Compass_Design_99: 1873081706
+      Viral_Destruction_Compass_Design_90: -961824892
+      Viral_Destruction_Compass_Design_7: 452749185
+      Viral_Destruction_Compass_Design_78: -530923111
+      Viral_Destruction_Compass_Design_133: 1367374019
+      Viral_Destruction_Compass_Design_25: 751274267
+      Viral_Destruction_Compass_Design_47: 80888398
+      Viral_Destruction_Compass_Design_122: 285053377
+      Viral_Destruction_Compass_Design_28: 41129280
+      Viral_Destruction_Compass_Design_137: -1811184617
+      Viral_Destruction_Compass_Design_1: -1750564220
+      Viral_Destruction_Compass_Design_32: -389118445
+      Viral_Destruction_Compass_Design_93: 321194587
+      Viral_Destruction_Compass_Design_37: -387206507
+      Viral_Destruction_Compass_Design_103: 742843597
+      Viral_Destruction_Compass_Design_8: 2067400573
+      Viral_Destruction_Compass_Design_71: 836697740
+      Viral_Destruction_Compass_Design_104: -527820402
+      Viral_Destruction_Compass_Design_59: -234566423
+      Viral_Destruction_Compass_Design_111: 904836880
+      Viral_Destruction_Compass_Design_128: 1020625693
+      Viral_Destruction_Compass_Design_3: -776738267
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

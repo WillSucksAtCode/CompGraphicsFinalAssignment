@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{c5fe3555-63c5-4d0f-bcd8-345d018e8286}">
+		<property name="name">
+			<value>Pickups</value>
+		</property>
+		<relationship name="folder">
+			<destination>{25e436d8-b026-4476-8a91-fdd9850de27b}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,122 @@
+{
+    "name": "DeveloperTools",
+    "maps": [
+        {
+            "name": "General",
+            "id": "96446f51-7965-4bf1-860a-46f983bff9e2",
+            "actions": [
+                {
+                    "name": "Enable Dev Mode Button 1",
+                    "type": "Button",
+                    "id": "1ca4f3a2-b669-4ae0-b672-c816638ccfa8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Enable Dev Mode Button 2",
+                    "type": "Button",
+                    "id": "0036ca15-2e9f-4980-a226-2488fbc87e91",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "54d1130e-5ae4-4e0b-b0af-7d5188d0f5b7",
+                    "path": "<Keyboard>/f12",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Enable Dev Mode Button 1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2275fe68-1b27-4da2-9b3d-5c8323f449d6",
+                    "path": "<Keyboard>/delete",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Enable Dev Mode Button 2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Scene Management",
+            "id": "70b09f08-6ca9-4f16-85b4-a88eaa8c4099",
+            "actions": [
+                {
+                    "name": "Go Back A Scene",
+                    "type": "Button",
+                    "id": "e4f610fa-7cd3-421a-a379-44858c871be6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Go Forward A Scene",
+                    "type": "Button",
+                    "id": "ae8d0e93-9bc9-4498-9459-731e7f66fa6e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Pause Scene",
+                    "type": "Button",
+                    "id": "f660c4b6-a0ba-4be9-823c-e88bde33b9d7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "863ef4d4-b301-4601-985e-a7caf5ac5e81",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Go Back A Scene",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "993780e5-fd3f-4087-8056-0291c62e886a",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Go Forward A Scene",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c39d3687-a816-42c0-ac9f-5735f6700698",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause Scene",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{1af2debf-f08f-460b-8d8f-33f7756c7a4a}">
+		<property name="name">
+			<value>ReloadType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{dd2fa395-591f-4572-9ee6-014e366f6418}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e9215af1-45d2-4d54-b57a-a8a310cad661}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e9215af1-45d2-4d54-b57a-a8a310cad661}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Mag</value>
+			<value>Shotgun</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
