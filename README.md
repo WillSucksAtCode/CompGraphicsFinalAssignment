@@ -1,5 +1,18 @@
 # CompGraphicsFinalAssignment
 
+William Heath - 100829482
+
+Farhan Hussain - 100787821
+
+Demo Video: https://youtu.be/2PXecvkozDY
+
+Slide Deck: https://docs.google.com/presentation/d/13J9fRQCnfb_AYzrMj3Ba9qi8UsgJVJdwXRBIOVxmqT0/edit?usp=sharing
+
+Build link: https://willidev.itch.io/viral-destruction-final-build (too big for GIT)
+(Toggle Post Processing Effects with "5")
+
+
+
 *Farhan* - When it came down to part 2 (Texturing) I utilized two softwares to create custom models and textures to be implemented into the game. I used Blender to create custom 3D models and also UV unwrapped in blender as well using blender to smart UV unwrap for me. After creating the model and UV unwrapping, The model was exported as an FBX file and then brought into a different software, Substance 3D Painter. In Substance Painter, i added the textures/materials to the model and then exported the textures as specific 2D images for each slot in Unity: Albedo, Metallic, Normal Map, Height, and Occlusion. 
 
 ![Screenshot 2023-04-04 020557](https://user-images.githubusercontent.com/72412425/229908673-f128242d-c9eb-4b8b-b1cc-5d62eeae767d.png)
